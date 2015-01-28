@@ -74,6 +74,7 @@ function colorScale2(color, range, steps) {
 
 var source = {
   cream: '#E1D8B7',
+  crimson: '#7D110C',
   majestic: '#4B306A'
 };
 
