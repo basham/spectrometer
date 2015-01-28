@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/basham/spectrometer/issues"
   },
-  "homepage": "https://github.com/basham/spectrometer"
+  "homepage": "https://github.com/basham/spectrometer",
+  "devDependencies": {
+    "chroma-js": "^0.6.3"
+  }
 }
