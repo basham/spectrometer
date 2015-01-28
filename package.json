@@ -1,0 +1,19 @@
+{
+  "name": "spectrometer",
+  "version": "1.0.0",
+  "description": "Generate a spectrum of light and dark colors from a source color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basham/spectrometer.git"
+  },
+  "author": "Chris Basham <chris@bash.am>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basham/spectrometer/issues"
+  },
+  "homepage": "https://github.com/basham/spectrometer"
+}
